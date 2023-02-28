@@ -1,1 +1,2 @@
-"key":"value"
+config:
+  info: master branch,config-dev.yml
